@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:dodge-ai-fde.notion.site)",
+      "Bash(python ingest.py)"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+.git/
+.gitignore
+.env
+.vite/
+dist/
+frontend/
+README.md
+CLAUDE_CODE_TRANSCRIPT.md
+AI_COLLABORATION_LOG.md
+vercel.json
+.claude/
