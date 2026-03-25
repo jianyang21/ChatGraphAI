@@ -2,6 +2,12 @@
 
 Graph-based data modeling and query system for SAP O2C data. Combines interactive graph visualization with an LLM-powered natural language interface to explore relationships between sales orders, deliveries, billing documents, payments, and more.
 
+## Live Demo
+
+**[Frontend: https://chatgraphai.netlify.app](https://chatgraphai.netlify.app)** - Interactive graph explorer with natural language chat
+
+**[Backend API: https://chatgraph-ai-backend.onrender.com/docs](https://chatgraph-ai-backend.onrender.com/docs)** - FastAPI Swagger documentation
+
 ## Architecture
 
 ```
