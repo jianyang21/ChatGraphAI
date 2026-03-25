@@ -3,6 +3,4 @@ dist/
 .env
 __pycache__/
 *.pyc
-backend/o2c.db
-backend/graph.gpickle
 .vite/
