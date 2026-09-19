@@ -36,7 +36,7 @@ with open(GRAPH_PATH, "rb") as f:
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
 client = Groq(api_key=GROQ_API_KEY) if GROQ_API_KEY else None
-MODEL_NAME = "llama-3.1-8b-instant"
+MODEL_NAME = "openai/gpt-oss-20b"
 
 DB_SCHEMA = """
 Tables in the SQLite database:
